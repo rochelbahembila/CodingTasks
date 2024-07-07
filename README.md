@@ -1,10 +1,10 @@
 # CodingTasks
 
 ### Image processing 
-1.### Description 
-We are going to uses the steps in the se
+### 1. Description 
+We are going to use the steps in the section below to correctly predict the numbers based on the images in the Mnist dataset using machine learning technics
 
-
+### Task
 In this task, we are going to Follow these steps:
 - Load the MNIST dataset.Use a library such as scikit-learn to access the dataset (fromsklearn.datasetsimportload_digits)
 - Split the data into train and test sets.
@@ -17,3 +17,10 @@ In this task, we are going to Follow these steps:
 - Report the accuracy, precision, recall, and f1-score. 
 
     Hint: use average = ”macro” inprecision_score, recall_score and f1_score fromscikit-learn
+  
+### Tools used
+
+We have used Jupyter notebook in this task as well as python, scikitlearn and all the libraries associated 
+
+### Credits and Author
+Rochel Bahhembila
