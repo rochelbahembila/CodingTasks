@@ -1,7 +1,7 @@
-# CodingTasks
+## CodingTasks
 
 #Image processing 
-1.#Description 
+1.##Description 
 We are going to uses the steps in the se
 
 
