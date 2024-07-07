@@ -3,7 +3,7 @@
 
 
 In this task, we are going to Follow these steps:
-- Load the MNIST dataset.Use a library such as scikit-learn to access the dataset(fromsklearn.datasetsimportload_digits)
+- Load the MNIST dataset.Use a library such as scikit-learn to access the dataset (fromsklearn.datasetsimportload_digits)
 - Split the data into train and test sets.
    ○ Add a comment explaining the purpose of the train and test sets.
 - Use the Random Forest Classifier built in to scikit-learn to create a classification model. 
